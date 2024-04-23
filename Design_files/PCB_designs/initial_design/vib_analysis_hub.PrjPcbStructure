@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Microcontroller Unit|SchDesignator=Microcontroller Unit|FileName=mcu.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Serial Port|SchDesignator=Serial Port|FileName=serial_port.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=serial_port.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
